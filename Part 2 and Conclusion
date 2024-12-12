@@ -1,0 +1,10 @@
+This Part of the Project is inputing CSV file into Google Colab. 
+The Goal in this project is to create a Dataframe using GoogleColab.
+ First Off, I ask GoogleColab to create a panda dataframe for my Pizz?Pizza! csv file '/content/Pizza_Pizza_sales_data.csv'
+ By printing out the dataframe (df), This will show what the CSV file saved. 
+ For creating files in the Google Colab, I asked questions using Google Gemini. 
+ By the help of Google Gemini in Google Colab, I was able to set a prompt like "calculate the average number of customers per store", "What is the Smallest store with customer wise and sale wise", "create a visualizing Graph", and more. 
+
+In Summary, This was a fun Project to create a Python code and dataframe on Google Colab. 
+ I wouldn't be able to do this without my Professors help, Professor Stefan Bund. 
+ Thank you very much Professor.
