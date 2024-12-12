@@ -1,1 +1,13 @@
-In the First project, I worked on 
+In this First project, I worked on creating a Pizza Company using Python code for the Project. Creating several Classes in a category in Product, Order, Customer, Store, and Corporation.
+  Product Class contains the Pizza's size, meat, cheese, and topping. Also, Created a pricing on every different prodcuts LIST into "price_dict"
+and size, meat, cheese, and topping into "ingredient" LIST. 
+  In the "Customer" class, this represents a customer with a name, ID, and associated orders. It also allow customers to create an order, add products and calculate the total cost. 
+  "Order" Class, represents customer's orders. This also adds Product to the orders, each orders has an random set of "order_id".
+  "Inventory" Class, holds the list of products available in the store and generates 20 random products when inventory is created.
+  Store Class, represents "Store" with "Customer" and "Inventory".
+  Corporation Class, manages multiple stores using self.stores = []  
+When creating this project I used a help of multiple LLM such as Copilot, CHatGPT, and GoogleColab.
+
+IN Summary, This code simulates a Pizza restaurant chain name Pizza? Pizza! with store, customers, and products. This Generates random product orders
+for customers and logs sales into CSV file with timestamp. 
+
